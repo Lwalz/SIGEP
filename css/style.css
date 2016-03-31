@@ -1,3 +1,4 @@
+
 #banner {
 	width: 80%;
 	display: block;
@@ -36,17 +37,18 @@
 }
 #active {
 	width: 100%;
-};
+}
 iframe {
 	width: 100%;
 	height: 42em;
 	display: none;
 }
 #form {
-	font-size: 10em;
+	font-size: 3em;
 	color: #3399FF;
 	display: none;
 }
+
 .twitter-timeline {
 	width: 100%;
 }
@@ -58,5 +60,9 @@ iframe {
 	width: 100%;
 	height: 5em;
 	margin-top: 0.5em;
+}
+#informationExpand{
+	font-size: 3em;
+	text-align: center;
 }
 

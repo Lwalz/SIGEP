@@ -13,6 +13,7 @@ if ($conn->connect_error) {
 } 
 echo "Connected successfully";
 
+$name = $_POST[name];
 $pw = $_POST[pw];
 if ($pw!="5194994w")
 	echo "Invalid password";
