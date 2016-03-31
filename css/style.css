@@ -3,6 +3,7 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 44px;
 }
 .bar {
 	width: 100%;
@@ -21,4 +22,7 @@
 }
 #menu {
 	margin-top: 2.5em;
+}
+#information {
+	width: 100%;
 }
