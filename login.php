@@ -13,12 +13,13 @@ if ($conn->connect_error) {
 } 
 echo "Connected successfully";
 
-$name = $_POST[name];
+$name=$_POST[name];
 $pw = $_POST[pw];
 if ($pw!="5194994w")
 	echo "Invalid password";
 	
 	else
-		header("Location: http://penguin.creighton.edu/~lcw24457/secret.html");
+		header("Location: http://penguin.creighton.edu/~lcw24457/secret.php?name=$name");
+
 		
 ?>

@@ -8,4 +8,7 @@ $(document).ready(function(){
 	$("#active").click(function(){
 		$('#form').toggle("slow");
 		});
+	$("#docs").click(function(){
+		$('.frame').css('display','block');
+	});
 });
