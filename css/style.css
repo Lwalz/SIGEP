@@ -1,0 +1,24 @@
+#banner {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.bar {
+	width: 100%;
+}
+#contact {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.contact {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: .5em;
+	padding-top: 3em;
+}
+#menu {
+	margin-top: 2.5em;
+}
