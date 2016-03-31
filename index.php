@@ -26,12 +26,19 @@
 
 Around 15,000 SigEp undergraduates are on 228 college campuses each year. They are among the more than 320,000 lifetime brothers who have joined since 1901.
 
-SigEp was founded with the Cardinal Principles of Virtue, Diligence and Brotherly Love. Our mission is “Building Balanced Men,” which is achieved through a commitment to Sound Mind and Sound Body.</p>
+SigEp was founded with the Cardinal Principles of Virtue, Diligence and Brotherly Love. Our mission is â€œBuilding Balanced Men,â€� which is achieved through a commitment to Sound Mind and Sound Body.</p>
       <a href=""><img src="images/events.png" id="events"></a>
       <iframe src="https://calendar.google.com/calendar/embed?src=sigepnedelta2016%40gmail.com&ctz=America/Chicag&mode=AGENDA&amp;" style="border: 0" frameborder="0" scrolling="yes"></iframe>
       <a href=""><img src="images/alumni.png" id="alum"></a>
       <a href=""><img src="images/active login.png" id="active"></a>
       
+      <form action="login.php" method="post" id="form" >
+      	<input type="text" value="lastname" name="name"><br>
+        <input type="text" value="password" name="pw">
+        <input type="submit">
+        
+      </form>
+     
       
     </div>
 
@@ -41,6 +48,10 @@ SigEp was founded with the Cardinal Principles of Virtue, Diligence and Brotherl
         <img src="images/twitter.png" id="twitter" class="contact">
         <img src="images/email.png" id="email" class="contact">
     </div>
+    <hr>
+    <a class="twitter-timeline" href="https://twitter.com/SigEpNEDelta" data-widget-id="715634420942671872">Tweets by @SigEpNEDelta</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
     
 	
 	

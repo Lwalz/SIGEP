@@ -22,7 +22,54 @@
 }
 #menu {
 	margin-top: 2.5em;
+	width: 100%;
 }
 #information {
 	width: 100%;
+}
+
+#events {
+	width: 100%;
+}
+#alum {
+	width: 100%;
+}
+#active {
+	width: 100%;
+}
+
+
+
+.btn {
+
+}
+#info:hover {
+	visibility: hidden;
+}
+#information {
+	background-image: url("images/information.png");
+}
+iframe {
+	width: 100%;
+	height: 42em;
+	display: none;
+}
+#form {
+	font-size: 10em;
+	color: #3399FF;
+	display: none;
+}
+.twitter-timeline {
+	width: 100%;
+}
+
+
+#facebook {
+}
+#menu form input {
+	width: 100%;
+	height: 5em;
+	margin-top: 0.5em;
+}
+#menu #form br {
 }

@@ -1,0 +1,11 @@
+$(document).ready(function(){
+	$("#information").click(function(){
+		$('#informationExpand').toggle("slow");
+		});
+	$("#events").click(function(){
+		$('iframe').toggle("slow");
+		});
+	$("#active").click(function(){
+		$('#form').toggle("slow");
+		});
+});
