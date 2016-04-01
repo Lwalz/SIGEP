@@ -9,6 +9,6 @@ $(document).ready(function(){
 		$('#form').toggle("slow");
 		});
 	$("#docs").click(function(){
-		$('.frame').css('display','block');
+		$('.frame').toggle("slow");
 	});
 });

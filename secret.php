@@ -24,7 +24,9 @@
 
 	<section id="forum"></section>
 
-
+	<script src="js/jquery-1.11.2.min.js"></script>
 	<script src="js/vdbl.js"></script>
+
+
 	</body>
 </html>
